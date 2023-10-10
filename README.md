@@ -96,13 +96,6 @@ CG360 implements federated learning on Android and Windows, safeguarding data pr
 Mobile Security Framework (MobSF)
 MobSF, an open-source tool, generates static and dynamic data dumps for mobile app security assessments. It enhances app security and device resilience.
 
-This concise version provides a quick overview of the project's components. Feel free to use it or make further adjustments as needed for your project's README.
-
-
-
-
-
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
