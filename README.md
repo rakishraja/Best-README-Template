@@ -85,13 +85,23 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-This project consists of two applications: Upagatha 360 (UG360) and CyberGuard 360 (CG360), both dedicated to improving security and privacy on mobile devices.
+This project consists of two applications and utilizes a powerful open-source tool:
 
 Upagatha 360 (UG360)
-UG360 is an Android malware detection app. It analyzes installed apps, utilizing machine learning to classify them as malware or safe. The backend runs on Django, handling HTTP requests efficiently with asynchronous Python. Collected data is stored in MongoDB, optimizing machine learning models while prioritizing user data privacy.
+UG360, an Android malware detection app, uses machine learning to classify installed apps. It employs Django for efficient backend handling and stores data securely in MongoDB.
 
 CyberGuard 360 (CG360)
-CG360 implements federated learning on Android and Windows platforms. Android uses the CIFAR-10 dataset with Kotlin, while Windows experiments with Malimg and KronoDroid datasets. Federated Learning decentralizes model training across local devices, preserving data privacy. Models are updated on central servers with aggregation methods, enhancing privacy and security through collaborative machine learning.
+CG360 implements federated learning on Android and Windows, safeguarding data privacy. It uses CIFAR-10, Kotlin, Malimg, and KronoDroid datasets for robust model training.
+
+Mobile Security Framework (MobSF)
+MobSF, an open-source tool, generates static and dynamic data dumps for mobile app security assessments. It enhances app security and device resilience.
+
+This concise version provides a quick overview of the project's components. Feel free to use it or make further adjustments as needed for your project's README.
+
+
+
+
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
