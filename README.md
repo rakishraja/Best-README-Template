@@ -85,16 +85,21 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
+
 This project consists of two applications and utilizes a powerful open-source tool:
 
-Upagatha 360 (UG360)
+### Upagatha 360 (UG360)
+
 UG360, an Android malware detection app, uses machine learning to classify installed apps. It employs Django for efficient backend handling and stores data securely in MongoDB.
 
-CyberGuard 360 (CG360)
+### CyberGuard 360 (CG360)
+
 CG360 implements federated learning on Android and Windows, safeguarding data privacy. It uses CIFAR-10, Kotlin, Malimg, and KronoDroid datasets for robust model training.
 
-Mobile Security Framework (MobSF)
+### Mobile Security Framework (MobSF)
+
 MobSF, an open-source tool, generates static and dynamic data dumps for mobile app security assessments. It enhances app security and device resilience.
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
