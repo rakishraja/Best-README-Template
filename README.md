@@ -102,16 +102,30 @@ MobSF, an open-source tool, generates static and dynamic data dumps for mobile a
 
 ### Built With
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+This section lists all the major frameworks/libraries used to bootstrap this project.
 
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
+### Upagatha 360 (UG360)
+
+- Kotlin
+- Firebase
+- Amazon Cloud EC2 Instance
+- Python
+
+### CyberGuard 360 (CG360)
+
+- Python
+- Flower
+- Kotlin
+- TensorFlow Lite
+- Amazon Cloud EC2 Instance
+
+### Mobile Security Framework (MobSF)
+
+- Python
+- Flask
+- JADX
+- Frida
+- Apktool
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
