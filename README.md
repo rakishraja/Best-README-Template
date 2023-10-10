@@ -85,7 +85,6 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-About the Project
 This project consists of two applications: Upagatha 360 (UG360) and CyberGuard 360 (CG360), both dedicated to improving security and privacy on mobile devices.
 
 Upagatha 360 (UG360)
