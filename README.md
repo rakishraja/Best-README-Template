@@ -85,16 +85,14 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+About the Project
+This project consists of two applications: Upagatha 360 (UG360) and CyberGuard 360 (CG360), both dedicated to improving security and privacy on mobile devices.
 
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
+Upagatha 360 (UG360)
+UG360 is an Android malware detection app. It analyzes installed apps, utilizing machine learning to classify them as malware or safe. The backend runs on Django, handling HTTP requests efficiently with asynchronous Python. Collected data is stored in MongoDB, optimizing machine learning models while prioritizing user data privacy.
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
-
-Use the `BLANK_README.md` to get started.
+CyberGuard 360 (CG360)
+CG360 implements federated learning on Android and Windows platforms. Android uses the CIFAR-10 dataset with Kotlin, while Windows experiments with Malimg and KronoDroid datasets. Federated Learning decentralizes model training across local devices, preserving data privacy. Models are updated on central servers with aggregation methods, enhancing privacy and security through collaborative machine learning.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
