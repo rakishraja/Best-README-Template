@@ -151,12 +151,13 @@ To get started, follow these steps:
    ```sh
    git clone https://github.com/rakishraja/Malware_detector.git
 3. Setup a Firebase Instance:
-   To use Upagatha 360 (UG360), you'll need to set up a Firebase instance. Follow these steps to get started:
+   To use Sangraha 360 (SG360), you'll need to set up a Firebase instance. Follow these steps to get started:
 
-   Visit the [Firebase Console](https://console.firebase.google.com/).
-   Create a new project for Sangraha 360.
-   Set up Firebase Authentication and Firestore for your project.
-   Obtain your Firebase configuration details.
+   - Visit the [Firebase Console](https://console.firebase.google.com/).
+   - Create a new project for Sangraha 360.
+   - Set up Firebase Authentication and Firestore for your project.
+   - Obtain your Firebase configuration details.
+
 
    
 ### Prerequisites
