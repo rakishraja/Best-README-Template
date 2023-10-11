@@ -94,7 +94,7 @@ UG360, an Android malware detection app, uses machine learning to classify insta
 
 ### CyberGuard 360 (CG360)
 
-CG360 implements federated learning on Android and Windows, safeguarding data privacy. It uses CIFAR-10, Kotlin, Malimg, and KronoDroid datasets for robust model training.
+CyberGuard 360 (CG360) deploys federated learning, utilizing CIFAR-10, Kotlin, Malimg, and KronoDroid datasets for robust malware detection. It features an optimized MLP model for efficiency and privacy, with predictions available via a Django server interface.
 
 ### Mobile Security Framework (MobSF)
 
