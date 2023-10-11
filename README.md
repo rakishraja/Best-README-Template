@@ -34,10 +34,9 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Upagatha360</h3>
+  <h3 align="center">Unkown Ransomware Attacks</h3>
 
   <p align="center">
-    UG360
     <br />
     <a href="https://github.com/"><strong>Explore the docs »</strong></a>
     <br />
