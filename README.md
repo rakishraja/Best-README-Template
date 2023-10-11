@@ -173,9 +173,9 @@ To get started, follow these steps:
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+Use Sangraha 360 (SG360) to detect malicious applications on Android devices.
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+_Usage videos and screenshots and documentation of the various applications based on the functionality of the apps_
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
