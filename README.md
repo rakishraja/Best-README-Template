@@ -106,7 +106,7 @@ MobSF, an open-source tool, generates static and dynamic data dumps for mobile a
 
 ### Built With
 
-This section lists all the major frameworks/libraries used to bootstrap this project.
+This section lists all the major frameworks/libraries/technologies used to bootstrap this project.
 
 ### Sangraha 360 (SG360)
 
