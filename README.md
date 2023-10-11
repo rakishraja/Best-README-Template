@@ -142,9 +142,14 @@ This section lists all the major frameworks/libraries/technologies used to boots
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+### Sangraha 360 (SG360)
 
+To get started, follow these steps:
+
+1. Install Android Studio.
+2. Clone the repository:
+   ```sh
+   git clone https://github.com/rakishraja/Malware_detector.git
 ### Prerequisites
 
 This is an example of how to list things you need to use the software and how to install them.
