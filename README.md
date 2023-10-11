@@ -117,11 +117,15 @@ This section lists all the major frameworks/libraries used to bootstrap this pro
 
 ### Dṛḍhagā 360 (DG360)
 
-- Python
+- Python 3.5
+- TensorFlow
+- TensorFlow Lite
+- Scikit-multiflow
 - Flower
 - Kotlin
-- TensorFlow Lite
 - Amazon Cloud EC2 Instance
+- Django
+
 
 ### Mobile Security Framework (MobSF)
 
