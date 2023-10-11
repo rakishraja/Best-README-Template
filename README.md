@@ -87,13 +87,13 @@
 
 This project consists of two applications and utilizes a powerful open-source tool:
 
-### Upagatha 360 (UG360)
+### Sangraha 360 (SG360)
 
-UG360, an Android malware detection app, uses machine learning to classify installed apps. It employs Django for efficient backend handling and stores data securely in MongoDB.
+SG360, an Android malware detection app, uses machine learning to classify installed apps. It employs Django for efficient backend handling and stores data securely in MongoDB.
 
-### CyberGuard 360 (CG360)
+### Dṛḍhagā 360 (DG360)
 
-CyberGuard 360 (CG360) deploys federated learning, utilizing CIFAR-10, Kotlin, Malimg, and KronoDroid datasets for robust malware detection. It features an optimized MLP model for efficiency and privacy, with predictions available via a Django server interface.
+Dṛḍhagā 360 (CG360) deploys federated learning, utilizing CIFAR-10, Kotlin, Malimg, and KronoDroid datasets for robust malware detection. It features an optimized MLP model for efficiency and privacy, with predictions available via a Django server interface.
 
 ### Mobile Security Framework (MobSF)
 
@@ -108,14 +108,14 @@ MobSF, an open-source tool, generates static and dynamic data dumps for mobile a
 
 This section lists all the major frameworks/libraries used to bootstrap this project.
 
-### Upagatha 360 (UG360)
+### Sangraha 360 (SG360)
 
 - Kotlin
 - Firebase
 - Amazon Cloud EC2 Instance
 - Python
 
-### CyberGuard 360 (CG360)
+### Dṛḍhagā 360 (DG360)
 
 - Python
 - Flower
