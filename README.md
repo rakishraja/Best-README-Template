@@ -126,9 +126,9 @@ This section lists all the major frameworks/libraries/technologies used to boots
 - Amazon Cloud EC2 Instance
 - Django
 
-
 ### Mobile Security Framework (MobSF)
 
+- Docker
 - Python
 - Flask
 - JADX
@@ -138,7 +138,6 @@ This section lists all the major frameworks/libraries/technologies used to boots
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-
 <!-- GETTING STARTED -->
 ## Getting Started
 
@@ -146,8 +145,25 @@ This section lists all the major frameworks/libraries/technologies used to boots
 
 This is a list things you need to use the software.
 
+### Sangraha 360 (SG360)
+
+* Google account
 * Android Studio
+
+### Dṛḍhagā 360 (DG360)
+
+* Flower framework
+* Tensorflow lite
+* Tensorflow
 * 
+* Android Studio
+
+### Mobile Security Framework (MobSF)
+
+* Docker
+
+
+### 
 
 ### Installation
 
