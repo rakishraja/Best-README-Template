@@ -147,21 +147,29 @@ This is a list things you need to use the software.
 
 ### Sangraha 360 (SG360)
 
-* Google account
+* Firebase setup
 * Android Studio
+* Android device/ Emulator (SDK>=21)
+* django
+* mongodb
 
 ### Dṛḍhagā 360 (DG360)
 
-* Flower framework
-* Tensorflow lite
-* Tensorflow
-* 
 * Android Studio
+* Android device/ Emulator (SDK>=21)
+* GPU (recommended for training and inference speed)
+* Python (latest version recommended; Python 3.5 or newer versions compatible)
+* Install PyTorch and TensorFlow (latest stable version, use your OS's package manager, and select CUDA if you have a GPU or CPU if not)
+* JDK version 16
+* npm (for Django server dependencies)
+* scikit-multiflow
+* django
 
 ### Mobile Security Framework (MobSF)
 
 * Docker
-
+* Python 3.x
+* Dependencies listed in the requirements file
 
 ### 
 
@@ -176,7 +184,6 @@ To get started, follow these steps:
    git clone https://github.com/rakishraja/Malware_detector.git
    
 2. Setup a Firebase Instance:
-   To use Sangraha 360 (SG360), you'll need to set up a Firebase instance. Follow these steps to get started:
 
    - Visit the [Firebase Console](https://console.firebase.google.com/).
    - Create a new project for Sangraha 360.
