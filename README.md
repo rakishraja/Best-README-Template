@@ -83,8 +83,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
+<!-- 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
-
+-->
 
 This project consists of two applications and utilizes a powerful open-source tool:
 
@@ -102,8 +103,6 @@ MobSF, an open-source tool, generates static and dynamic data dumps for mobile a
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 ### Built With
 
@@ -125,7 +124,7 @@ This section lists all the major frameworks/libraries/technologies used to boots
 - Flower
 - Kotlin
 - Amazon Cloud EC2 Instance
-- Django
+- django
 
 ### Mobile Security Framework (MobSF)
 
@@ -137,7 +136,6 @@ This section lists all the major frameworks/libraries/technologies used to boots
 - Apktool
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -192,6 +190,7 @@ To get started, follow these steps:
    - Obtain your Firebase configuration details.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 
 <!-- USAGE EXAMPLES -->
