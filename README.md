@@ -189,6 +189,39 @@ To get started, follow these steps:
    - Set up Firebase Authentication and Firestore for your project.
    - Obtain your Firebase configuration details.
 
+### Dṛḍhagā 360 (DG360)
+
+To get started, follow these steps:
+
+1. Clone the repository:
+   ```sh
+    git clone https://github.com/msripooja/kmit-cg360-FL.git
+
+### Mobile Security Framework (MobSF)
+
+To get started, follow these steps:
+
+1. **Install MobSF via pip:**
+   
+   ```shell
+   pip install mobsf
+   
+**Docker Setup (Optional and Recommended)**
+
+Alternatively, for an even easier setup, you can use MobSF within a Docker container. Simply follow these steps:
+
+1. Pull the MobSF Docker image from Docker Hub:
+
+   ```shell
+   docker pull mobsf/mobsf
+
+2. Run the Docker container with MobSF:
+
+   ```shell
+   docker run -it -p 8000:8000 mobsf/mobsf
+
+This will provide a pre-configured MobSF environment within a Docker container, making it easy to use.
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
