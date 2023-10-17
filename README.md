@@ -88,7 +88,7 @@ This section lists all the major frameworks/libraries/technologies used to boots
 - [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
 - [![TensorFlow Lite](https://img.shields.io/badge/TensorFlow%20Lite-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/lite)
 - [![Scikit-multiflow](https://img.shields.io/badge/Scikit-multiflow-1B6E06?style=for-the-badge)](https://scikit-multiflow.github.io/)
-- [![Flower](https://img.shields.io/badge/Flower-8B5A0D?style=for-the-badge&logo=flower&logoColor=white)](https://flower.dev/)
+- [![Flower](https://img.shields.io/badge/Flower-black?style=for-the-badge&logo=github)](https://github.com/mher/flower)
 - [![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
 - [![Amazon Cloud EC2 Instance](https://img.shields.io/badge/Amazon%20EC2-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/ec2/)
 - [![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
@@ -214,15 +214,20 @@ Don't forget to give the project a star! Thanks again!
 <!-- CONTACT -->
 ## Contact
 
+<!-- 
 Your Name - [@BajrangKailasa](https://twitter.com/BajrangKailasa) - kailasabajrang6@example.com
 
 Project Link: [https://github.com/msripooja/kmit-cg360-android](https://github.com/msripooja/kmit-cg360-android)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+-->
+
 <!-- ACKNOWLEDGMENTS -->
 
 ## Acknowledgments
+
+- [Flower GitHub](https://github.com/mher/flower)
 - [Mobile Security Framework (MobSF) GitHub](https://github.com/MobSF/Mobile-Security-Framework-MobSF)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
