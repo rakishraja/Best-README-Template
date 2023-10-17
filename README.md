@@ -282,12 +282,13 @@ Don't forget to give the project a star! Thanks again!
 
 Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/msripooja/kmit-cg360-android)
+Project Link: [https://github.com/msripooja/kmit-cg360-android](https://github.com/msripooja/kmit-cg360-android)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 <!-- ACKNOWLEDGMENTS -->
+
 ## Acknowledgments
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -295,7 +296,7 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/ms
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+
 [contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
 [contributors-url]: https://github.com/rakishraja/Best-README-Template/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
@@ -307,4 +308,4 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/ms
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
 [license-url]: https://github.com/rakishraja/Best-README-Template/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/rakishraja
+[linkedin-url]: www.linkedin.com/in/raja-gandewar-a029a827b
