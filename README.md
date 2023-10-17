@@ -81,30 +81,26 @@ This section lists all the major frameworks/libraries/technologies used to boots
 
 ### Sangraha 360 (SG360)
 
-- Kotlin
-- Firebase
-- Amazon Cloud EC2 Instance
-- Python
+- Language: [![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
+- Database: [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
+- Hosting: [![Amazon EC2](https://img.shields.io/badge/Amazon%20EC2-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/ec2/)
+- Additional Tools: [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 
 ### Dṛḍhagā 360 (DG360)
 
-- Python 3.5
-- TensorFlow
-- TensorFlow Lite
-- Scikit-multiflow
-- Flower
-- Kotlin
-- Amazon Cloud EC2 Instance
-- django
+- Languages: [![Python 3.5](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/), [![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
+- Machine Learning Frameworks: [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/), [![TensorFlow Lite](https://img.shields.io/badge/TensorFlow%20Lite-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/lite), [![Scikit-multiflow](https://img.shields.io/badge/Scikit%20multiflow-6783AB?style=for-the-badge&logo=python&logoColor=white)](https://scikit-multiflow.github.io/)
+- Additional Tools: [![Flower](https://img.shields.io/badge/Flower-FF59A8?style=for-the-badge&logo=pytorch&logoColor=white)](https://github.com/pytorch/flower)
+- Hosting: [![Amazon EC2](https://img.shields.io/badge/Amazon%20EC2-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/ec2/)
+- Web Framework: [![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
 
 ### Mobile Security Framework (MobSF)
 
-- Docker
-- Python
-- Flask
-- JADX
-- Frida
-- Apktool
+- Containers: [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+- Languages: [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/), [![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/en/2.1.x/)
+- Tools: [![JADX](https://img.shields.io/badge/JADX-000000?style=for-the-badge&logo=jadx&logoColor=white)](https://github.com/skylot/jadx), [![Frida](https://img.shields.io/badge/Frida-0095D5?style=for-the-badge&logo=frida&logoColor=white)](https://frida.re/), [![Apktool](https://img.shields.io/badge/Apktool-0095D5?style=for-the-badge&logo=apktool&logoColor=white)](https://ibotpeaches.github.io/Apktool/)
+
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
