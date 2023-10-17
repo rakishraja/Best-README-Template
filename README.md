@@ -124,14 +124,14 @@ This is a list things you need to use the software.
 
 * Firebase setup
 * Android Studio
-* Android device/ Emulator (SDK>=21)
+* Android device/ Emulator (SDK>=23)
 * django
 * mongodb
 
 ### Dṛḍhagā 360 (DG360)
 
 * Android Studio
-* Android device/ Emulator (SDK>=21)
+* Android device/ Emulator (SDK>=23)
 * GPU (recommended for training and inference speed)
 * Python (latest version recommended; Python 3.5 or newer versions compatible)
 * Install PyTorch and TensorFlow (latest stable version, use your OS's package manager, and select CUDA if you have a GPU or CPU if not)
@@ -225,7 +225,7 @@ _Usage videos and screenshots and documentation of the various applications base
 
 - [ ] Devising a set frequency to dump data to the server
 
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/rakishraja/Best-README-Template/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -258,7 +258,6 @@ Your Name - [@BajrangKailasa](https://twitter.com/BajrangKailasa) - kailasabajra
 Project Link: [https://github.com/msripooja/kmit-cg360-android](https://github.com/msripooja/kmit-cg360-android)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 <!-- ACKNOWLEDGMENTS -->
 
