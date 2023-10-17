@@ -132,7 +132,7 @@ This is a list things you need to use the software.
 
 ### Mobile Security Framework (MobSF)
 
-    - MobSF, an open-source tool, generates static and dynamic data dumps for mobile app security assessments. It enhances app security and device resilience.
+ - MobSF, an open-source tool, generates static and dynamic data dumps for mobile app security assessments. It enhances app security and device resilience.
 
 
 ### 
