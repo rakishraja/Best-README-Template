@@ -91,7 +91,7 @@ This section lists all the major frameworks/libraries/technologies used to boots
 - [![Python 3.5](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 - [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
 - [![TensorFlow Lite](https://img.shields.io/badge/TensorFlow%20Lite-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/lite)
-- [![Scikit-multiflow](httpsimg.shields.io/badge/Scikit-multiflow-1B6E06?style=for-the-badge)](https://scikit-multiflow.github.io/)
+- [![Scikit-multiflow](https://img.shields.io/badge/Scikit-multiflow-1B6E06?style=for-the-badge)](https://scikit-multiflow.github.io/)
 - [![Flower](https://img.shields.io/badge/Flower-8B5A0D?style=for-the-badge&logo=flower&logoColor=white)](https://flower.dev/)
 - [![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
 - [![Amazon Cloud EC2 Instance](https://img.shields.io/badge/Amazon%20EC2-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/ec2/)
