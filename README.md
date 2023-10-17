@@ -182,7 +182,7 @@ _Usage videos and screenshots and documentation of the various applications base
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ROADMAP -->
-## Roadmap
+## Roadmap for 2024
 
 - [ ] Devising a set frequency to dump data to the server
 
@@ -219,9 +219,9 @@ Your Name - [@BajrangKailasa](https://twitter.com/BajrangKailasa) - kailasabajra
 
 Project Link: [https://github.com/msripooja/kmit-cg360-android](https://github.com/msripooja/kmit-cg360-android)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 -->
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ACKNOWLEDGMENTS -->
 
