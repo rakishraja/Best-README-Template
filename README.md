@@ -69,10 +69,6 @@ SG360, an Android malware detection app, uses machine learning to classify insta
 
 Dṛḍhagā 360 (CG360) deploys federated learning, utilizing CIFAR-10, Kotlin, Malimg, and KronoDroid datasets for robust malware detection. It features an optimized MLP model for efficiency and privacy, with predictions available via a Django server interface.
 
-### Mobile Security Framework (MobSF)
-
-MobSF, an open-source tool, generates static and dynamic data dumps for mobile app security assessments. It enhances app security and device resilience.
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Built With
@@ -96,19 +92,6 @@ This section lists all the major frameworks/libraries/technologies used to boots
 - [![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
 - [![Amazon Cloud EC2 Instance](https://img.shields.io/badge/Amazon%20EC2-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/ec2/)
 - [![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
-
-#### Mobile Security Framework (MobSF)
-
-- [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
-- [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-- [![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
-- [![JADX](https://img.shields.io/badge/JADX-000000?style=for-the-badge)](https://github.com/skylot/jadx)
-- [![Frida](https://img.shields.io/badge/Frida-81BEF7?style=for-the-badge&logo=frida&logoColor=white)](https://frida.re/)
-- [![Apktool](https://img.shields.io/badge/Apktool-5870B8?style=for-the-badge)](https://ibotpeaches.github.io/Apktool/)
-- [![Postman API](https://img.shields.io/badge/Postman%20API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
-
-
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -142,9 +125,8 @@ This is a list things you need to use the software.
 
 ### Mobile Security Framework (MobSF)
 
-* Docker
-* Python 3.x
-* Dependencies listed in the requirements file
+MobSF, an open-source tool, generates static and dynamic data dumps for mobile app security assessments. It enhances app security and device resilience.
+
 
 ### 
 
@@ -175,28 +157,11 @@ To get started, follow these steps:
 
 ### Mobile Security Framework (MobSF)
 
-To get started, follow these steps:
+To get started, follow their official link:
 
-1. **Install MobSF via pip:**
-   
-   ```shell
-   pip install mobsf
-   
-**Docker Setup (Optional and Recommended)**
+- [![Mobile Security Framework (MobSF)](https://img.shields.io/badge/MobSF-GitHub-black?style=for-the-badge&logo=github)](https://github.com/MobSF/Mobile-Security-Framework-MobSF)
 
-Alternatively, for an even easier setup, you can use MobSF within a Docker container. Simply follow these steps:
 
-1. Pull the MobSF Docker image from Docker Hub:
-
-   ```shell
-   docker pull mobsf/mobsf
-
-2. Run the Docker container with MobSF:
-
-   ```shell
-   docker run -it -p 8000:8000 mobsf/mobsf
-
-This will provide a pre-configured MobSF environment within a Docker container, making it easy to use.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -211,10 +176,6 @@ Use Sangraha 360 (SG360) to detect malicious applications on Android devices.
 ### Dṛḍhagā 360 (DG360)
 
 Dṛḍhagā 360 (DG360) is to set up the federated learning techniques on Android and Windows.
-
-### Mobile Security Framework (MobSF)
-
-MobSF is a versatile tool that allows you to generate data dumps of APK files for security assessment.
 
 _Usage videos and screenshots and documentation of the various applications based on the functionality of the apps_
 
@@ -262,6 +223,7 @@ Project Link: [https://github.com/msripooja/kmit-cg360-android](https://github.c
 <!-- ACKNOWLEDGMENTS -->
 
 ## Acknowledgments
+- [Mobile Security Framework (MobSF) GitHub](https://github.com/MobSF/Mobile-Security-Framework-MobSF)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
