@@ -109,29 +109,30 @@ This section lists all the major frameworks/libraries/technologies used to boots
 
 This is a list things you need to use the software.
 
-### Sangraha 360 (SG360)
+#### Sangraha 360 (SG360)
 
-* Firebase setup
-* Android Studio
-* Android device/ Emulator (SDK>=23)
-* django
-* mongodb
+- Firebase setup
+- Android Studio
+- Android device/ Emulator (SDK>=23)
+- Django
+- MongoDB
 
-### Dṛḍhagā 360 (DG360)
+#### Dṛḍhagā 360 (DG360)
 
-* Android Studio
-* Android device/ Emulator (SDK>=23)
-* GPU (recommended for training and inference speed)
-* Python (latest version recommended; Python 3.5 or newer versions compatible)
-* Install PyTorch and TensorFlow (latest stable version, use your OS's package manager, and select CUDA if you have a GPU or CPU if not)
-* JDK version 16
-* npm (for Django server dependencies)
-* scikit-multiflow
-* django
+- Android Studio
+- Android device/ Emulator (SDK>=23)
+- GPU (recommended for training and inference speed)
+- Python (latest version recommended; Python 3.5 or newer versions compatible)
+- Install PyTorch and TensorFlow (latest stable version, use your OS's package manager, and select CUDA if you have a GPU or CPU if not)
+- JDK version 16
+- npm (for Django server dependencies)
+- scikit-multiflow
+- Django
+
 
 ### Mobile Security Framework (MobSF)
 
-MobSF, an open-source tool, generates static and dynamic data dumps for mobile app security assessments. It enhances app security and device resilience.
+    - MobSF, an open-source tool, generates static and dynamic data dumps for mobile app security assessments. It enhances app security and device resilience.
 
 
 ### 
